@@ -1,4 +1,4 @@
-* Task1 Video Confrencing Website
+* Task2 Video Confrencing Website
 Task is a video confrencing web  app that makes it easy to groups up with people you want to meet
 
 
